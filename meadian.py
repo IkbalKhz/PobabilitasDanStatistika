@@ -1,4 +1,4 @@
-data = [0, 2, 2, 1, 4, 0, 5]
+data = [0, 0, 1, 2, 2, 4, 5]
 n = len(data)
 if n % 2 == 0:
     median1 = data[n//2]
